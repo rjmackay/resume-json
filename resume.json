@@ -1,0 +1,212 @@
+{
+  "basics": {
+    "name": "Robbie Mackay",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "rm@robbiemackay.com",
+    "phone": "0275762243",
+    "website": "http://robbiemackay.com",
+    "summary": "I have 10+ years of experience building full stack web apps, with a focus on non profits and companies with a social purpose. I've spent the last 4 years working remotely for [Ushahidi](https://www.ushahidi.com), leading development on our flagship application, and now managing the distributed development team",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Auckland",
+      "countryCode": "NZ",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "rjmackay",
+        "url": "https://github.com/rjmackay"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ushahidi",
+      "position": "CTO",
+      "website": "https://ushahidi.com",
+      "startDate": "2015",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Leading Ushahidi's tech team for Ushahidi's products",
+        "Setting technical direction for Ushahidi's products (Ushahidi and RollCall)",
+        "Improving development process to bring clarity and efficiency",
+        "Built culture of code review and testing"
+      ]
+    },
+    {
+      "company": "Ushahidi",
+      "position": "Lead Developer",
+      "website": "https://ushahidi.com",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "Lead development of flagship web application: Ushahidi",
+      "highlights": [
+        "Lead the rebuild of Ushahidi's flagship mapping and data gathering tool",
+        "Took the project from prototype through to launch",
+        "Launch SaaS edition of Ushahidi v3, based on OSS product",
+        "Defined clean architecture for Ushahidi v3 API and Client"
+      ]
+    },
+    {
+      "company": "Ushahidi",
+      "position": "External Projects Developer",
+      "website": "https://ushahidi.com",
+      "startDate": "2012",
+      "endDate": "2014",
+      "summary": "Hired as main technical contact and lead developer on custom Ushahidi deployments for clients",
+      "highlights": [
+        "Working within an existing legacy code base",
+        "Deployed and managed servers for client projects",
+        "Security Lead. Acting as main contact point for security issues and planning"
+      ]
+    },
+    {
+      "company": "Torchbox",
+      "position": "Drupal Web Developer",
+      "website": "https://torchbox.com",
+      "startDate": "2010",
+      "endDate": "2011",
+      "summary": "",
+      "highlights": [
+        "Developed complex Drupal based sites for charities and non-profit organisations",
+        "Developed specifications for full Drupal sites, or enhancements",
+        "Scaling and optimising complex Drupal sites using varnish, nginx, memcache, static caching, PHP profiling, and database replication",
+        "Building tools for fast, standardised development and deployment",
+        "Building debian packages",
+        "Configuring and managing LAMP servers"
+      ]
+    },
+    {
+      "company": "Greenpeace New Zealand",
+      "position": "Web Developer",
+      "website": "https://ushahidi.com",
+      "startDate": "2009",
+      "endDate": "2010",
+      "summary": "",
+      "highlights": [
+        "Developed web applications and websites",
+        "Managing websites and social media feeds during live events under high load",
+        "Used the web for social change campaigning",
+        "Online fundraising and analysis of fundraising platforms to improve results",
+        "Developed and maintained a large Drupal site",
+        "Security testing and fixes on online shop",
+        "Integrating multiple sites with Payment Express for credit card processing",
+        "Linux server administration – managing multiple virtual servers, LAMP configuration, PostgreSQL, bash scripting, vsftp, automated backups"
+      ]
+    },
+    {
+      "company": "Self employed",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2002",
+      "endDate": "2009",
+      "summary": "",
+      "highlights": [
+        "Developed websites and database applications for clients and provided website design/development, database design and basic graphic design",
+        "Developed custom web applications based on Silverstripe CMS",
+        "Delivered a content management system using Jojo CMS (jojocms.org) and provided custom plugins for the CMS",
+        "Set up and management of Linux web servers"
+      ]
+    },
+    {
+      "company": "Genesis Interactive",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2007",
+      "endDate": "2008",
+      "summary": "Summer Job",
+      "highlights": [
+        "Developed web based applications and websites for clients. Implementing full sites from an overall design provided by a graphic designer",
+        "Improvements to existing in-house content management system.  Including adding a new AJAX based content administration interface and security fixes",
+        "Developed a stock and inventory tracking component for the company's flagship customer relations management (CRM) system – LiveCRM",
+        "Improvements to client's CakePHP based web application",
+        "Set up a linux development server. Including Apache/PHP/Mysql, Mercurial and SVN for version control, Trac issue tracking, incremental backups, and Webmin control panel"
+      ]
+    },
+    {
+      "company": "Navman",
+      "position": "Software Testing Engineer",
+      "website": "https://navman.com",
+      "startDate": "2006",
+      "endDate": "2007",
+      "summary": "Summer Job",
+      "highlights": [
+        "User acceptance testing (UAT) on car navigation software and hardware",
+        "Development of test cases for new handsfree kit product lines – F40, F50 & S Series products"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Engineers Without Borders",
+      "position": "Web Manager",
+      "website": "https://ewb.org.nz/",
+      "startDate": "2008",
+      "endDate": "2010",
+      "summary": "Managed Web and IT needs for Engineers Without Borders NZ",
+      "highlights": [
+        "Web and IT Manager for Engineers Without Borders NZ",
+        "Managed the website content and platform (Drupal CMS)",
+        "Developed online payment (donation) and membership system",
+        "Member of the founding committee for Engineers Without Borders NZ"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Auckland",
+      "area": "Engineering (Computer Systems)",
+      "studyType": "Bachelors",
+      "startDate": "2004-02-01",
+      "endDate": "2008-11-30",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Managing a distributed development team, defining tech direction and development process"
+    },
+    {
+      "name": "Leading an open source project, and working with the wider user and developer community"
+    },
+    {
+      "name": "Software architecture",
+      "keywords": [
+        "MVC",
+        "SOLID Principles",
+        "Clean Architecture"
+      ]
+    },
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "Javascript", "AngularJS", "Sass"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "keywords": [
+        "PHP", "NodeJS", "Python", "Laravel", "MySQL", "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Devops",
+      "keywords": [
+        "Docker", "Ansible", "Continuous deployment", "Nginx"
+      ]
+    },
+    {
+      "name": "FirefoxOS"
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
