@@ -2,11 +2,11 @@
   "basics": {
     "name": "Robbie Mackay",
     "label": "Software Developer",
-    "picture": "",
+    "picture": "https://avatars.githubusercontent.com/u/7965?v=3",
     "email": "rm@robbiemackay.com",
-    "phone": "0275762243",
+    "phone": "+64 27 576 2243",
     "website": "http://robbiemackay.com",
-    "summary": "I have 10+ years of experience building full stack web apps, with a focus on non profits and companies with a social purpose. I've spent the last 4 years working remotely for [Ushahidi](https://www.ushahidi.com), leading development on our flagship application, and now managing the distributed development team",
+    "summary": "I have 10+ years of experience building full stack web apps, with a focus on non profits and companies with a social purpose. I currently lead the development team at [Ushahidi](https://www.ushahidi.com). I've been working remotely for the last 5 years, and managing a distributed team for 1.5 years.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -27,97 +27,79 @@
       "company": "Ushahidi",
       "position": "CTO",
       "website": "https://ushahidi.com",
-      "startDate": "2015",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2015-09-01",
+      "summary": "Ushahidi is a non profit building open source software for the advocacy, development, and humanitarian response communities.",
       "highlights": [
-        "Leading Ushahidi's tech team for Ushahidi's products",
+        "Leading a distributed team of developers across multiple time zones.",
         "Setting technical direction for Ushahidi's products (Ushahidi and RollCall)",
         "Improving development process to bring clarity and efficiency",
-        "Built culture of code review and testing"
+        "Building a healthy code review and testing culture"
       ]
     },
     {
       "company": "Ushahidi",
-      "position": "Lead Developer",
+      "position": "Software Developer",
       "website": "https://ushahidi.com",
-      "startDate": "2014",
-      "endDate": "2015",
-      "summary": "Lead development of flagship web application: Ushahidi",
+      "startDate": "2012-02-01",
+      "endDate": "2015-10-01",
+      "summary": "",
       "highlights": [
-        "Lead the rebuild of Ushahidi's flagship mapping and data gathering tool",
-        "Took the project from prototype through to launch",
-        "Launch SaaS edition of Ushahidi v3, based on OSS product",
-        "Defined clean architecture for Ushahidi v3 API and Client"
-      ]
-    },
-    {
-      "company": "Ushahidi",
-      "position": "External Projects Developer",
-      "website": "https://ushahidi.com",
-      "startDate": "2012",
-      "endDate": "2014",
-      "summary": "Hired as main technical contact and lead developer on custom Ushahidi deployments for clients",
-      "highlights": [
-        "Working within an existing legacy code base",
-        "Deployed and managed servers for client projects",
-        "Security Lead. Acting as main contact point for security issues and planning"
+        "Led the development of Ushahidi's mapping and data gathering tool",
+        "Launched rebuild and SaaS edition of Ushahidi",
+        "Lead developer on Ushahidi projects for [Internews](http://internews.org), [WorldVision](http://worldvision.org) and [APC](http://apc.org/)",
+        "Contact point for security issues"
       ]
     },
     {
       "company": "Torchbox",
       "position": "Drupal Web Developer",
       "website": "https://torchbox.com",
-      "startDate": "2010",
-      "endDate": "2011",
-      "summary": "",
+      "startDate": "2010-07-01",
+      "endDate": "2011-12-01",
+      "summary": "Torchbox is a digital agency building websites and applications for people trying to make the world a better place. I worked primarily on developing Drupal based websites for charity/non profit clients.",
       "highlights": [
         "Developed complex Drupal based sites for charities and non-profit organisations",
-        "Developed specifications for full Drupal sites, or enhancements",
+        "Led development of new website for [UK Green Building Council](http://www.ukgbc.org/)",
+        "Led development of global website for [ActionAid](http://actionaid.org/), and many country offices",
         "Scaling and optimising complex Drupal sites using varnish, nginx, memcache, static caching, PHP profiling, and database replication",
-        "Building tools for fast, standardised development and deployment",
-        "Building debian packages",
-        "Configuring and managing LAMP servers"
+        "Built automation tools for creating standardised Drupal deployments",
+        "LAMP server administration"
       ]
     },
     {
       "company": "Greenpeace New Zealand",
       "position": "Web Developer",
-      "website": "https://ushahidi.com",
-      "startDate": "2009",
-      "endDate": "2010",
-      "summary": "",
+      "website": "http://greenpeace.org.nz",
+      "startDate": "2009-05-01",
+      "endDate": "2010-06-01",
+      "summary": "Greenpeace is a global campaigning organization working to protect the environment and promote peace. I was the sole web developer maintaining campaigning websites and other hardware or web tools as needed",
       "highlights": [
-        "Developed web applications and websites",
-        "Managing websites and social media feeds during live events under high load",
-        "Used the web for social change campaigning",
+      	"Developed and maintained a large Drupal site for Sign On climate change campaign in the run up to [COP15](https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference)",
+        "Built apps to show live social media feeds during direct actions and protests, when under high load from public and media",
         "Online fundraising and analysis of fundraising platforms to improve results",
-        "Developed and maintained a large Drupal site",
-        "Security testing and fixes on online shop",
-        "Integrating multiple sites with Payment Express for credit card processing",
-        "Linux server administration – managing multiple virtual servers, LAMP configuration, PostgreSQL, bash scripting, vsftp, automated backups"
+        "Security testing and bug fixes on online shop",
+        "Linux server admin"
       ]
     },
     {
-      "company": "Self employed",
+      "company": "Freelance work",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2002",
-      "endDate": "2009",
-      "summary": "",
+      "startDate": "2002-01-01",
+      "endDate": "2009-12-01",
+      "summary": "I worked as a freelance software developer and occasionally designer. I built custom web apps and brochure sites for various clients, often based on Silverstripe CMS.",
       "highlights": [
-        "Developed websites and database applications for clients and provided website design/development, database design and basic graphic design",
+        "Developed web apps and brochure site for various clients",
         "Developed custom web applications based on Silverstripe CMS",
-        "Delivered a content management system using Jojo CMS (jojocms.org) and provided custom plugins for the CMS",
-        "Set up and management of Linux web servers"
+        "Linux server admin"
       ]
     },
     {
       "company": "Genesis Interactive",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2007",
-      "endDate": "2008",
+      "startDate": "2007-12-01",
+      "endDate": "2008-03-01",
       "summary": "Summer Job",
       "highlights": [
         "Developed web based applications and websites for clients. Implementing full sites from an overall design provided by a graphic designer",
@@ -131,12 +113,12 @@
       "company": "Navman",
       "position": "Software Testing Engineer",
       "website": "https://navman.com",
-      "startDate": "2006",
-      "endDate": "2007",
+      "startDate": "2006-12-01",
+      "endDate": "2007-02-01",
       "summary": "Summer Job",
       "highlights": [
         "User acceptance testing (UAT) on car navigation software and hardware",
-        "Development of test cases for new handsfree kit product lines – F40, F50 & S Series products"
+        "Development of test cases for new handsfree kit product lines"
       ]
     }
   ],
@@ -145,8 +127,8 @@
       "organization": "Engineers Without Borders",
       "position": "Web Manager",
       "website": "https://ewb.org.nz/",
-      "startDate": "2008",
-      "endDate": "2010",
+      "startDate": "2008-01-01",
+      "endDate": "2010-05-01",
       "summary": "Managed Web and IT needs for Engineers Without Borders NZ",
       "highlights": [
         "Web and IT Manager for Engineers Without Borders NZ",
