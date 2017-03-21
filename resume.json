@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Robbie Mackay",
-    "label": "Software Developer",
+    "label": "Director of Engineering | Tech Lead | Software Developer",
     "picture": "https://avatars.githubusercontent.com/u/7965?v=3",
     "email": "rm@robbiemackay.com",
     "phone": "+64 27 576 2243",
@@ -25,15 +25,17 @@
   "work": [
     {
       "company": "Ushahidi",
-      "position": "CTO",
+      "position": "Director of Engineering",
       "website": "https://ushahidi.com",
       "startDate": "2015-09-01",
       "summary": "Ushahidi is a non profit building open source software for the advocacy, development, and humanitarian response communities.",
       "highlights": [
-        "Leading a distributed team of developers across multiple time zones.",
-        "Setting technical direction for Ushahidi's products (Ushahidi and RollCall)",
-        "Improving development process to bring clarity and efficiency",
-        "Building a healthy code review and testing culture"
+        "Led a distributed team of developers in multiple time zones",
+        "Set technical direction for Ushahidi's products (Ushahidi and RollCall)",
+        "Improved development process to bring clarity and efficiency",
+        "Built a healthy code review and testing culture",
+        "Implemented basic people management (1-1s, reviews) in a historically flat anti-management organization",
+        "Implemented sane process for goal setting"
       ]
     },
     {
@@ -42,7 +44,7 @@
       "website": "https://ushahidi.com",
       "startDate": "2012-02-01",
       "endDate": "2015-10-01",
-      "summary": "",
+      "summary": "I joined Ushahidi to lead development of client projects and ",
       "highlights": [
         "Led the development of Ushahidi's mapping and data gathering tool",
         "Launched rebuild and SaaS edition of Ushahidi",
@@ -60,10 +62,8 @@
       "highlights": [
         "Developed complex Drupal based sites for charities and non-profit organisations",
         "Led development of new website for [UK Green Building Council](http://www.ukgbc.org/)",
-        "Led development of global website for [ActionAid](http://actionaid.org/), and many country offices",
-        "Scaling and optimising complex Drupal sites using varnish, nginx, memcache, static caching, PHP profiling, and database replication",
-        "Built automation tools for creating standardised Drupal deployments",
-        "LAMP server administration"
+        "Led development of global website for [ActionAid](http://actionaid.org/), and many country offices. This handled high traffic and used geoip sniff and nginx caching to intelligently serve different content based on region.",
+        "Built automation tools for creating standardised Drupal deployments"
       ]
     },
     {
@@ -76,9 +76,7 @@
       "highlights": [
       	"Developed and maintained a large Drupal site for Sign On climate change campaign in the run up to [COP15](https://en.wikipedia.org/wiki/2009_United_Nations_Climate_Change_Conference)",
         "Built apps to show live social media feeds during direct actions and protests, when under high load from public and media",
-        "Online fundraising and analysis of fundraising platforms to improve results",
-        "Security testing and bug fixes on online shop",
-        "Linux server admin"
+        "Ran basic technical training for (potential) activists"
       ]
     },
     {
@@ -90,8 +88,7 @@
       "summary": "I worked as a freelance software developer and occasionally designer. I built custom web apps and brochure sites for various clients, often based on Silverstripe CMS.",
       "highlights": [
         "Developed web apps and brochure site for various clients",
-        "Developed custom web applications based on Silverstripe CMS",
-        "Linux server admin"
+        "Developed custom web applications based on Silverstripe CMS"
       ]
     },
     {
@@ -100,25 +97,23 @@
       "website": "",
       "startDate": "2007-12-01",
       "endDate": "2008-03-01",
-      "summary": "Summer Job",
+      "summary": "Genesis Interactive is a small web development shop. I worked as a developer over summer.",
       "highlights": [
-        "Developed web based applications and websites for clients. Implementing full sites from an overall design provided by a graphic designer",
-        "Improvements to existing in-house content management system.  Including adding a new AJAX based content administration interface and security fixes",
-        "Developed a stock and inventory tracking component for the company's flagship customer relations management (CRM) system – LiveCRM",
-        "Improvements to client's CakePHP based web application",
-        "Set up a linux development server. Including Apache/PHP/Mysql, Mercurial and SVN for version control, Trac issue tracking, incremental backups, and Webmin control panel"
+        "Introduced version control and bug tracking, and trained other developers to use them",
+        "Built a stock and inventory tracking component for Genesis' customer relations management (CRM) product",
+        "Developed web apps and websites for clients"
       ]
     },
     {
       "company": "Navman",
       "position": "Software Testing Engineer",
-      "website": "https://navman.com",
+      "website": "http://navman.com",
       "startDate": "2006-12-01",
       "endDate": "2007-02-01",
-      "summary": "Summer Job",
+      "summary": "Navman produces in-car GPS systems. I worked in the Testing team as a summer job while studying.",
       "highlights": [
-        "User acceptance testing (UAT) on car navigation software and hardware",
-        "Development of test cases for new handsfree kit product lines"
+        "Acceptance testing on car navigation software and hardware",
+        "Wrote test cases for new handsfree kit product lines"
       ]
     }
   ],
@@ -141,8 +136,8 @@
   "education": [
     {
       "institution": "University of Auckland",
-      "area": "Engineering (Computer Systems)",
-      "studyType": "Bachelors",
+      "area": "Bachelors of Engineering (Computer Systems)",
+      "studyType": "",
       "startDate": "2004-02-01",
       "endDate": "2008-11-30",
       "gpa": "",
@@ -152,12 +147,6 @@
   "awards": [],
   "publications": [],
   "skills": [
-    {
-      "name": "Managing a distributed development team, defining tech direction and development process"
-    },
-    {
-      "name": "Leading an open source project, and working with the wider user and developer community"
-    },
     {
       "name": "Software architecture",
       "keywords": [
@@ -169,19 +158,19 @@
     {
       "name": "Frontend Development",
       "keywords": [
-        "Javascript", "AngularJS", "Sass"
+        "Javascript", "AngularJS", "Webpack", "Browserify"
       ]
     },
     {
       "name": "Backend Development",
       "keywords": [
-        "PHP", "NodeJS", "Python", "Laravel", "MySQL", "PostgreSQL"
+        "PHP", "NodeJS", "Laravel", "Python", "MySQL", "PostgreSQL"
       ]
     },
     {
       "name": "Devops",
       "keywords": [
-        "Docker", "Ansible", "Continuous deployment", "Nginx"
+        "Docker", "Ansible", "Terraform", "Continuous deployment"
       ]
     },
     {
